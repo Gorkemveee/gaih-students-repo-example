@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** 30.05.1997  
+**Course Date:** 15.02.2021  
 **Name:** Görkem    
 **Surname:** BUDAK  
 **Email:** budakgorkem97@gmail.com  
